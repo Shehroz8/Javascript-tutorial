@@ -24,6 +24,15 @@ Merc.town()
 console.log(Ferari);
 console.log(Merc);
 
+function Future(name, color, buy){
+    this.name = name
+    this.color = color
+    this.buy = falce
+}
+
+const Banan = new Future("banan", "yellow", true)
+
+
 //class
 
 class NewCar{

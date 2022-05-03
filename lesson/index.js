@@ -42,3 +42,12 @@ class NewCar{
         this.airBag = airBag
     }
 }
+
+//class constroktor
+class Car(){
+    constructor(name, color, buy){
+        this.name = name
+        this.color = color
+        this.buy = buy
+    }
+}

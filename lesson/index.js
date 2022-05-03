@@ -51,3 +51,7 @@ class Car(){
         this.buy = buy
     }
 }
+
+const Merc = Car("merc", "black", "buy")
+
+console.log(Merc)

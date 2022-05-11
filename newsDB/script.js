@@ -74,3 +74,4 @@ function writeYourGenres() {
   }
 }
 writeYourGenres();
+console.log("hello")

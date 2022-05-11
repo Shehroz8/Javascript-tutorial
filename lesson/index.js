@@ -55,3 +55,4 @@ class Car(){
 const Merc = Car("merc", "black", "buy")
 
 console.log(Merc)
+console.log(Merc)

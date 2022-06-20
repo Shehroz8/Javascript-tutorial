@@ -53,27 +53,5 @@ class Car(){
 }
 
 const Merc = Car("merc", "black", "buy")
-
 console.log(Merc)
 console.log(Merc)
-
-
-
-
-
-
-
-
-
-// class Car(){
-//     constructor(name, color, buy){
-//         this.name = name
-//         this.color = color
-//         this.buy = buy
-//     }
-// }
-
-// const Merc = Car("merc", "black", "buy")
-
-// console.log(Merc)
-// console.log(Merc)
